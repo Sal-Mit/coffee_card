@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+This is not my work but a practice tutorial of a YouTuber NetNinja https://www.youtube.com/watch?v=FuTbF7DfECM&list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx&index=10
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
